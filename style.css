@@ -242,13 +242,11 @@ a{
     width: 2rem;
 }
 
-
 .player-controls-icon{
     height: 1rem;
     margin: 0 1.75rem;
     /* margin: 0 5%; */
     opacity: .7;
-
 }
 .player-controls-icon:hover{
     opacity: 1;
@@ -283,7 +281,6 @@ a{
     border-radius: 50%;
     margin-top: -6px;
 }
-
 
 .controls{
     display: flex;
